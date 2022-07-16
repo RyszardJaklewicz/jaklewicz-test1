@@ -1,5 +1,5 @@
 {
-    "name": "RyszardJaklewicz/paczka-2",
+    "name": "ryszard-jaklewicz/paczka-2",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
