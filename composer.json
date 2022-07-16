@@ -1,8 +1,8 @@
 {
-    "name": "ryszard-jaklewicz/paczka-2",
+    "name": "ryszard-jaklewicz/test-1",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
-        "ryszard-jaklewicz/paczka-2": "dev-main"
+        "ryszard-jaklewicz/test-1": "dev-main"
     }
 }
